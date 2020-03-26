@@ -34,7 +34,7 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z (Step 0):**
-[Step 0: SMC Gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
+[SMC Gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
 
 ## Step 1:
 
@@ -48,7 +48,7 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z (Step 2):**
-[Step 2: Positioner](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_positioner.7z)
+[Positioner](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_positioner.7z)
 
 ## Step 3:
 
@@ -61,7 +61,7 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z (Step 3-4):**
-[Step 3-4: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
+[Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
 
 ## Step 4:
 
@@ -70,7 +70,7 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z (Step 3-4):**
-[Step 3-4: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
+[Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
 
 ## Step 5:
 
@@ -79,7 +79,7 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z (Step 5):**
-[Step 2: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Final.7z)
+[Final result](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Final.7z)
 
 ## Result:
 
