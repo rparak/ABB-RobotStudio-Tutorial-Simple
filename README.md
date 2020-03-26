@@ -39,7 +39,7 @@ Step 5) The result of the task with all objects.
 ## Step 1:
 
 <p align="center">
-<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/workspace.PNG" width="700" height="350">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/workspace.PNG" width="600" height="350">
 </p>
 
 **Video .7z (Step 1):**
