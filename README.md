@@ -55,6 +55,9 @@ Step 5) The result of the task with all objects.
 <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_2.PNG" width="800" height="350">
 </p>
 
+**Video .7z:**
+[Step 2: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z.7z)
+
 ## Step 3:
 
 ## Step 4:
