@@ -23,6 +23,13 @@ Step 4) Designing Attacher, Detacher for Object 1 and creating a trajectory for 
 
 Step 5) The result of the task with all objects.
 
+
+## Step 1:
+
+<p align="center">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/images/smc_gripper.png" width="700" height="500">
+</p>
+
 ## Result:
 
 Youtube: Coming soon!
