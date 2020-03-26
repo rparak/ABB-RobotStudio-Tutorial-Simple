@@ -24,7 +24,7 @@ Step 3 - 4) Designing Attacher, Detacher for Object 1 and creating a trajectory 
 Step 5) The result of the task with all objects.
 
 <p align="center">
-<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_1.PNG" width="700" height="350">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_1_base.PNG" width="700" height="350">
 </p>
 
 ## Step 0:
@@ -37,6 +37,10 @@ Step 5) The result of the task with all objects.
 [SMC Gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
 
 ## Step 1:
+
+<p align="center">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/workspace.PNG" width="700" height="350">
+</p>
 
 **Video .7z (Step 1):**
 [SMC Workspace](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Check_Workspace.7z)
