@@ -36,16 +36,21 @@ Step 5) The result of the task with all objects.
 **Video .7z:**
 [Step 0: SMC Gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
 
-## Step 1:
+## Step 2:
+
+**Video .7z:**
+[Step 0: SMC Workspace](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Check_Workspace.7z)
+
+## Step 2:
 
 <p align="center">
 <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_positioner.png" width="900" height="250">
 </p>
 
 **Video .7z:**
-[Step 1: Positioner](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_positioner.7z)
+[Step 2: Positioner](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_positioner.7z)
 
-## Step 2:
+## Step 3:
 
 <p align="center">
 <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_1.PNG" width="500" height="350">
@@ -56,13 +61,25 @@ Step 5) The result of the task with all objects.
 </p>
 
 **Video .7z:**
-[Step 2: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z.7z)
-
-## Step 3:
+[Step 3-4: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
 
 ## Step 4:
 
+<p align="center">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_1_final_move_obj_1.PNG" width="700" height="350">
+</p>
+
+**Video .7z:**
+[Step 3-4: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Attacher_Detacher.7z)
+
 ## Step 5:
+
+<p align="center">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_1_final_move_obj_all.PNG" width="700" height="350">
+</p>
+
+**Video .7z:**
+[Step 2: Attacher, Detacher](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/Solution_1_Final.7z)
 
 ## Result:
 
