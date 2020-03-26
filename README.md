@@ -7,5 +7,6 @@
 ABB RobotStudio
 ```
 
+Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 # ABB RobotStudio - Simple Tutorial
