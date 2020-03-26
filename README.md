@@ -33,9 +33,23 @@ Step 5) The result of the task with all objects.
 <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/smc_gripper.PNG" width="700" height="350">
 </p>
 
-**Video:**
-[create_smc_gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
+**Video .7z:**
+[Step 1: SMC Gripper](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
 
+## Step 2:
+
+<p align="center">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_positioner.png" width="700" height="350">
+</p>
+
+**Video .7z:**
+[Step 2: Positioner](https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/tree/master/video/create_smc_gripper.7z)
+
+## Step 3:
+
+## Step 4:
+
+## Step 5:
 ## Result:
 
 Youtube: Coming soon!
