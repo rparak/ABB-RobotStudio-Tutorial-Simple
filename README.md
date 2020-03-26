@@ -48,11 +48,11 @@ Step 5) The result of the task with all objects.
 ## Step 2:
 
 <p align="center">
-<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_1.PNG" width="900" height="250">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_1.PNG" width="500" height="250">
 </p>
 
 <p align="center">
-<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_2.PNG" width="900" height="250">
+<img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-Simple/blob/master/images/solution_att_det_2.PNG" width="800" height="350">
 </p>
 
 ## Step 3:
