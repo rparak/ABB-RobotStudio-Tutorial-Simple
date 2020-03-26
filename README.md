@@ -9,7 +9,7 @@ ABB RobotStudio
 
 Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
-# ABB RobotStudio - Simple Tutorial
+# ABB RobotStudio - Simple Tutorial (Create Tool, Pick and Place, etc.)
 
 ## Result:
 
