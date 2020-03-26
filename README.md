@@ -11,7 +11,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 # ABB RobotStudio - Simple Tutorial (Create Tool, Pick and Place, etc.)
 
-The video demonstrates a few simple examples in ABB RobotStudio:
+The project demonstrates a few simple examples in ABB RobotStudio:
 
 Step 0) Import the designed Gripper (end effector) from Inventor / Solidworks (.sat file) into ABB RobotStudio.
 
