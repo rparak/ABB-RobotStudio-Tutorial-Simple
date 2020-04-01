@@ -87,7 +87,7 @@ Step 5) The result of the task with all objects.
 
 ## Result:
 
-Youtube: Coming soon!
+Youtube: https://www.youtube.com/watch?v=ohePUt-NylU
 
 ## Contact Info:
 Roman.Parak@outlook.com
