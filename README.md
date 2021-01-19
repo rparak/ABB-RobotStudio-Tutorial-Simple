@@ -1,4 +1,4 @@
-# ABB-RobotStudo-Tutorial-Simple
+# ABB-RobotStudio-Tutorial-Simple
 
 ## Requirements:
 
