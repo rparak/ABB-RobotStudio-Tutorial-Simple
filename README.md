@@ -92,5 +92,17 @@ Youtube: https://www.youtube.com/watch?v=ohePUt-NylU
 ## Contact Info:
 Roman.Parak@outlook.com
 
+## Citation (BibTex)
+```bash
+@misc{RomanParak_ABB_BaR,
+  author = {Roman Parak},
+  title = {A few examples of robot control in the ABB RobotStudio simulation tool},
+  year = {2019-2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rparak/ABB_BaR_SDK_Control/}}
+}
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
