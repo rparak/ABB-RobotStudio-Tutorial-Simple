@@ -94,7 +94,7 @@ Roman.Parak@outlook.com
 
 ## Citation (BibTex)
 ```bash
-@misc{RomanParak_ABB_BaR,
+@misc{RomanParak_ABB_RS,
   author = {Roman Parak},
   title = {A few examples of robot control in the ABB RobotStudio simulation tool},
   year = {2019-2021},
